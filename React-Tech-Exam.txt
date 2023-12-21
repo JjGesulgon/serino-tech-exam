@@ -44,7 +44,7 @@ class MyComponent extends React.Component {
 ======
 ANSWER
 ======
-Put your answer here:
+Put your answer here: Below is the refactored code. For the explanation, please refer to the PDF file included.
 
 
 "use client";
