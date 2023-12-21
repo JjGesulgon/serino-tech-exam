@@ -1,7 +1,7 @@
 # serino-tech-exam
 Tech Exam Answer For Serino
 
-Note: The coding answers for each questions are also in the text files and the explanation of each answers are on the PDF file.
+Note: The coding answers for each questions are also in the text files and the explanations of each answers are on the PDF file.
 
 ## Initial Code Setup
 run `npm install` on each folder
