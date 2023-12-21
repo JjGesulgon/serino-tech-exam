@@ -7,7 +7,7 @@
 const groupByStatus = require('./serinoTechExam.js');
 
 // Test case 1
-test('groups data by status correctly', () => {
+test('Groups data by status correctly', () => {
   const initialData = [
     {
       "id": 1,
